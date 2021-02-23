@@ -1,5 +1,5 @@
 # simple-express-restapi
-Simple Rest API 
-- express
+Simple CRUD Rest API 
+- express js
 - mysql
 - sequelize
